@@ -1,0 +1,17 @@
+C:\Users\Classtime\Desktop\BackendExam\Lumia\Lumia_Data\bin\Debug\net8.0\Lumia_Data.deps.json
+C:\Users\Classtime\Desktop\BackendExam\Lumia\Lumia_Data\bin\Debug\net8.0\Lumia_Data.runtimeconfig.json
+C:\Users\Classtime\Desktop\BackendExam\Lumia\Lumia_Data\bin\Debug\net8.0\Lumia_Data.dll
+C:\Users\Classtime\Desktop\BackendExam\Lumia\Lumia_Data\bin\Debug\net8.0\Lumia_Data.pdb
+C:\Users\Classtime\Desktop\BackendExam\Lumia\Lumia_Data\bin\Debug\net8.0\Lumia_Core.dll
+C:\Users\Classtime\Desktop\BackendExam\Lumia\Lumia_Data\bin\Debug\net8.0\Lumia_Core.pdb
+C:\Users\Classtime\Desktop\BackendExam\Lumia\Lumia_Data\obj\Debug\net8.0\Lumia_Data.csproj.AssemblyReference.cache
+C:\Users\Classtime\Desktop\BackendExam\Lumia\Lumia_Data\obj\Debug\net8.0\Lumia_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime\Desktop\BackendExam\Lumia\Lumia_Data\obj\Debug\net8.0\Lumia_Data.AssemblyInfoInputs.cache
+C:\Users\Classtime\Desktop\BackendExam\Lumia\Lumia_Data\obj\Debug\net8.0\Lumia_Data.AssemblyInfo.cs
+C:\Users\Classtime\Desktop\BackendExam\Lumia\Lumia_Data\obj\Debug\net8.0\Lumia_Data.csproj.CoreCompileInputs.cache
+C:\Users\Classtime\Desktop\BackendExam\Lumia\Lumia_Data\obj\Debug\net8.0\Lumia_Data.csproj.CopyComplete
+C:\Users\Classtime\Desktop\BackendExam\Lumia\Lumia_Data\obj\Debug\net8.0\Lumia_Data.dll
+C:\Users\Classtime\Desktop\BackendExam\Lumia\Lumia_Data\obj\Debug\net8.0\refint\Lumia_Data.dll
+C:\Users\Classtime\Desktop\BackendExam\Lumia\Lumia_Data\obj\Debug\net8.0\Lumia_Data.pdb
+C:\Users\Classtime\Desktop\BackendExam\Lumia\Lumia_Data\obj\Debug\net8.0\Lumia_Data.genruntimeconfig.cache
+C:\Users\Classtime\Desktop\BackendExam\Lumia\Lumia_Data\obj\Debug\net8.0\ref\Lumia_Data.dll
